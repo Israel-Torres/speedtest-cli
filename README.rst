@@ -13,7 +13,8 @@ speedtest-cli RR 0.3.2.1 works with Python 2.4-3.4 (Re-wRitten with 2.7.6)
 Installation
 ------------
 
-    curl -Lo speedtest-cli.py https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest_cli.py
+    curl -Lo speedtest-cli.py https://raw.githubusercontent.com/Israel-Torres/speedtest-cli/master/speedtest_cli.py
+    
     chmod +x speedtest-cli.py
 
 Usage
