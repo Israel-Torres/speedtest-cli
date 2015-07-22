@@ -22,12 +22,14 @@ Usage
    ./speedtest-cli
 
     Output will appear as:
+    
     "20150722:08:01:54","tw telecom holdings (207.114.182.222)","Hostspace networks LLC (Los Angeles, CA) [97.77 km]","14.859 ms","5.10 Mbit/s","5.16 Mbit/s"
 
     Header is as follows:
+    
     "Date","fromLocation","toLocation","Latency","Download","Upload"
 
 Notes
 -----
-    I had to splap this together and didn't want to pipe it through a bunch of tools to get it to have it output the way I needed it. I simply took out the things I didn't need. :)
+    I had to slap this together and didn't want to pipe it through a bunch of tools to get it to have it output the way I needed it. I simply took out the things I didn't need. :)
     
